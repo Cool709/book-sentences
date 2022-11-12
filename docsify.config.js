@@ -2,7 +2,7 @@ module.exports = {
   main: {
     name: "Book sentences",
     basePath:
-      "https://raw.githubusercontent.com/Cool709/book-sentences/master/docs/",
+      "https://raw.githubusercontent.com/Cool709/book-sentences/main/docs/",
     repo: "https://github.com/Cool709/book-sentences",
     loadSidebar: true,
     alias: {
